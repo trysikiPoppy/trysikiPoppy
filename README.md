@@ -13,4 +13,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trysikipoppy&show_icons=true&locale=en" alt="trysikipoppy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trysikipoppy&" alt="trysikipoppy" /></p>
-![Codewars](https://github.r2v.ch/codewars?user=trysikiPoppy)
+<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=trysikiPoppy&badge&colormode=dark_mode" />
+<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=trysikiPoppy&card&colormode=bright_mode" />
+
+[![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=trysikiPoppy&theme=dark)](https://www.codewars.com/users/trysikiPoppy)
+
+[![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=trysikiPoppy)](https://www.codewars.com/users/trysikiPoppy)
+<p align="center">
+  <a href="https://www.codewars.com/users/trysikiPoppy">
+    <img src="https://github.r2v.ch/codewars?user=trysikiPoppy&theme=light&stroke=%23bb432c" />
+  </a>
+</p>
